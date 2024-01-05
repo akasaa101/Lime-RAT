@@ -1,7 +1,8 @@
 repo_name: akasaa101/Lime-RAT
 report_id: 7c1cdcd410d1a8b95712a070a52c01ae
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-28T08:45:53+00:00'
+timestamp: '2024-01-05T08:32:11+00:00'
 requested_by: Nyrotication
 provider: github
 branch: master
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/akasaa101/Lime-RAT/blob/master/Project/Server/packages.config
   detection_source: Project/Server/packages.config
   last_updated_by: NYAN-x-CAT
   last_updated_on: 2018-05-16 08:36:55.000000000 Z
@@ -28,6 +30,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/akasaa101/Lime-RAT
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -37,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/akasaa101/Lime-RAT/blob/master/Project/Server/packages.config
   detection_source: Project/Server/packages.config
   last_updated_by: NYAN-x-CAT
   last_updated_on: 2018-05-16 08:36:55.000000000 Z
@@ -49,6 +53,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/akasaa101/Lime-RAT/blob/master/LimeRAT.sln
   detection_source: LimeRAT.sln
   last_updated_by: NYAN-x-CAT
   last_updated_on: 2018-05-16 08:36:55.000000000 Z
@@ -63,7 +68,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13100/default_baa6c1c3e725b18a803052f0d13efd0ca49e5d50.png
-  detection_source_url: github.com/akasaa101/Lime-RAT/blob/master/Project/Server/packages.config
+  detection_source_url: https://github.com/akasaa101/Lime-RAT/blob/master/Project/Server/packages.config
   detection_source: Project/Server/packages.config
   last_updated_by: NYAN-x-CAT
   last_updated_on: 2018-05-16 08:36:55.000000000 Z
